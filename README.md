@@ -14,6 +14,11 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 * [Java Client for Pilosa](https://github.com/pilosa/java-pilosa)
 * [Go Client for Pilosa](https://github.com/pilosa/go-pilosa)
 * [Python Client for Pilosa](https://github.com/pilosa/python-pilosa)
+* [Pilosa Development Kit](https://github.com/pilosa/pdk)
+
+## Documentation and Tutorials
+
+* [Getting Started](https://github.com/pilosa/getting-started)
 
 ## Resources
 
