@@ -8,10 +8,20 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ## Software
 
+### Server
+
 * [Pilosa Server](https://github.com/pilosa/pilosa)
-* [Java Client for Pilosa](https://github.com/pilosa/java-pilosa)
-* [Go Client for Pilosa](https://github.com/pilosa/go-pilosa)
-* [Python Client for Pilosa](https://github.com/pilosa/python-pilosa)
+
+### Client
+
+* [Go Client](https://github.com/pilosa/go-pilosa)
+* [Java Client](https://github.com/pilosa/java-pilosa)
+* [Python Client](https://github.com/pilosa/python-pilosa)
+* [JavaScript Client](https://github.com/yuce/js-pilosa)
+* [Swift Client](https://github.com/BenziAhamed/swift-pilosa)
+
+### Tools
+
 * [Pilosa Development Kit](https://github.com/pilosa/pdk)
 
 ## Documentation and Tutorials
@@ -20,7 +30,11 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ## Resources
 
-* [Home](https://www.pilosa.com)
+* [Project Home](https://www.pilosa.com)
 * [Documentation](https://www.pilosa.com/docs/introduction/)
 * [@slothware](https://twitter.com/slothware)
 
+## Podcasts and Interviews
+
+* [Pilosa: A New Kind of Database Index](https://dzone.com/articles/pilosa-a-new-kind-of-database-index)
+* [FLOSS Weekly #437](https://twit.tv/shows/floss-weekly/episodes/437?autostart=false)
