@@ -19,9 +19,9 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ### Client
 
-* [Go Client](https://github.com/pilosa/go-pilosa)
-* [Java Client](https://github.com/pilosa/java-pilosa)
-* [Python Client](https://github.com/pilosa/python-pilosa)
+* [Go Client (official)](https://github.com/pilosa/go-pilosa)
+* [Java Client (official)](https://github.com/pilosa/java-pilosa)
+* [Python Client (official)](https://github.com/pilosa/python-pilosa)
 * [JavaScript/TypeScript Client](https://github.com/yuce/js-pilosa)
 * [Swift Client](https://github.com/BenziAhamed/swift-pilosa)
 
@@ -32,7 +32,7 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ## Documentation and Tutorials
 
-* [Official Documentation](https://www.pilosa.com/docs/introduction/)
+* [Main Documentation](https://www.pilosa.com/docs/introduction/)
 * [Getting Started](https://github.com/pilosa/getting-started)
 * [Pilosa Notebooks](https://github.com/alanbernstein/pilosa-notebooks)
 
