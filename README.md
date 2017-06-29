@@ -32,13 +32,13 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ## Documentation and Tutorials
 
+* [Official Documentation](https://www.pilosa.com/docs/introduction/)
 * [Getting Started](https://github.com/pilosa/getting-started)
 * [Pilosa Notebooks](https://github.com/alanbernstein/pilosa-notebooks)
 
 ## Resources
 
 * [Project Home](https://www.pilosa.com)
-* [Documentation](https://www.pilosa.com/docs/introduction/)
 * [@slothware](https://twitter.com/slothware)
 
 ## Podcasts and Interviews
