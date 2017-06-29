@@ -41,7 +41,9 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 * [Project Home](https://www.pilosa.com)
 * [@slothware](https://twitter.com/slothware)
 
-## Podcasts and Interviews
+## Podcasts, Talks and Interviews
 
 * [Pilosa: A New Kind of Database Index](https://dzone.com/articles/pilosa-a-new-kind-of-database-index)
-* [FLOSS Weekly #437](https://twit.tv/shows/floss-weekly/episodes/437?autostart=false)
+* [FLOSS Weekly #437](https://www.youtube.com/watch?v=lLYQpH5T4WE)
+* [The Index As a First Class Citizen](https://www.youtube.com/watch?v=6gsD2Uohb5k)
+
