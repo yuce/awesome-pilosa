@@ -23,10 +23,12 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 ### Tools
 
 * [Pilosa Development Kit](https://github.com/pilosa/pdk)
+* [PiCon: Pilosa Console](https://github.com/yuce/picon)
 
 ## Documentation and Tutorials
 
 * [Getting Started](https://github.com/pilosa/getting-started)
+* [Pilosa Notebooks](https://github.com/alanbernstein/pilosa-notebooks)
 
 ## Resources
 
