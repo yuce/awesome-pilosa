@@ -12,11 +12,6 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 * [Pilosa Server](https://github.com/pilosa/pilosa) [Apache 2]
 
-### Server Plugins
-
-* [Tanimoto](https://github.com/linhvo/tanimoto)
-* [Okapi](https://github.com/yuce/okapi)
-
 ### Client
 
 * [Go Client (official)](https://github.com/pilosa/go-pilosa) [BSD]
