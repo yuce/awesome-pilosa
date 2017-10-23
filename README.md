@@ -2,10 +2,6 @@
 
 A curated list of awesome articles, software and resources for Pilosa distributed bitmap index.
 
-## Articles
-
-* [Pilosa launches distributed index for accelerated data querying](http://www.zdnet.com/article/pilosa-launches-distributed-index-for-accelerated-data-querying/)
-
 ## Software
 
 ### Server
@@ -22,21 +18,24 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ### Tools
 
-* [Pilosa Development Kit](https://github.com/pilosa/pdk) [BSD]
-* [PiCon: Pilosa Console](https://github.com/yuce/picon) [BSD]
-* [Pilosa Notebooks](https://github.com/pilosa/notebooks) [CC0]
+* [Pilosa Development Kit](https://github.com/pilosa/pdk) [BSD] Implementation tooling and use case examples
+* [PiCon: Pilosa Console](https://github.com/yuce/picon) [BSD] Text based console for Pilosa
+* [Pilosa Notebooks](https://github.com/pilosa/notebooks) [CC0] iPython notebooks for Pilosa demonstrations
 
 ## Documentation and Tutorials
 
 * [Main Documentation](https://www.pilosa.com/docs/introduction/)
 * [Getting Started](https://github.com/pilosa/getting-started)
-* [Pilosa Notebooks](https://github.com/alanbernstein/pilosa-notebooks)
 
 ## Resources
 
 * [Project Home](https://www.pilosa.com)
 * [@slothware](https://twitter.com/slothware)
 * [Pilosa on Crunchbase](https://www.crunchbase.com/organization/pilosa)
+
+## Articles
+
+* [Pilosa launches distributed index for accelerated data querying](http://www.zdnet.com/article/pilosa-launches-distributed-index-for-accelerated-data-querying/)
 
 ## Podcasts, Talks and Interviews
 
@@ -47,4 +46,4 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 ## Projects Using Pilosa
 
-* [Go Pensieve](https://github.com/theatlantic/go-pensieve) [MIT]
+* [Go Pensieve](https://github.com/theatlantic/go-pensieve) [MIT] Parse Krux data feed files and import into Pilosa
