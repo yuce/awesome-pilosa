@@ -13,6 +13,7 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 * [Go Client (official)](https://github.com/pilosa/go-pilosa) [BSD]
 * [Java Client (official)](https://github.com/pilosa/java-pilosa) [BSD]
 * [Python Client (official)](https://github.com/pilosa/python-pilosa) [BSD]
+* [Lua Client](https://github.com/pilosa/lua-pilosa) [BSD]
 * [JavaScript/TypeScript Client](https://github.com/yuce/js-pilosa) [BSD]
 * [Swift Client](https://github.com/BenziAhamed/swift-pilosa) [MIT]
 * [R Client](https://github.com/ropenscilabs/hirsutosa) [MIT]
@@ -31,7 +32,7 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 ## Resources
 
 * [Project Home](https://www.pilosa.com)
-* [@slothware](https://twitter.com/slothware)
+* [Pilosa on Twitter](https://twitter.com/slothware)
 * [Pilosa on Crunchbase](https://www.crunchbase.com/organization/pilosa)
 
 ## Articles
