@@ -42,8 +42,7 @@ A curated list of awesome articles, software and resources for Pilosa distribute
 
 * [Pilosa: A New Kind of Database Index](https://dzone.com/articles/pilosa-a-new-kind-of-database-index)
 * [FLOSS Weekly #437 (video)](https://www.youtube.com/watch?v=lLYQpH5T4WE)
-* [The Index As a First Class Citizen (video)](https://www.youtube.com/watch?v=6gsD2Uohb5k)
-* [The Index As a First Class Citizen (slides)](https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/60565)
+* The Index As a First Class Citizen [(video)](https://www.youtube.com/watch?v=6gsD2Uohb5k) [(slides)](https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/60565)
 * [Go Time #76: Building a distributed index](https://changelog.com/gotime/76)
 
 ## Projects Using Pilosa
